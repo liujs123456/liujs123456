@@ -83,8 +83,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/liujs123456/github-stats/generated/overview.svg" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/liujs123456/github-stats/generated/languages.svg" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/liujs123456/github-stats/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/liujs123456/github-stats/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/liujs123456/github-stats/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/liujs123456/github-stats/generated/languages.svg#gh-light-mode-only" alt="Top Languages" />
 </div>
 
 <div align="center">
