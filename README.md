@@ -83,8 +83,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liujs123456&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liujs123456&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/liujs123456/liujs123456/output/generated/overview.svg" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/liujs123456/liujs123456/output/generated/languages.svg" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -94,14 +94,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=liujs123456&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- *(Configure the blog-post-workflow GitHub Action to auto-populate this section from your RSS feed.)*
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
