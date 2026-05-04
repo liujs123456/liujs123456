@@ -83,8 +83,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/liujs123456/liujs123456/output/generated/overview.svg" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/liujs123456/liujs123456/output/generated/languages.svg" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/liujs123456/github-stats/generated/overview.svg" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/liujs123456/github-stats/generated/languages.svg" alt="Top Languages" />
 </div>
 
 <div align="center">
